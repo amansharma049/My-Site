@@ -105,6 +105,8 @@ a {
 
 .bottom-line {
   color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
 }
 .profile-pic{
   height: 300px;
@@ -147,6 +149,6 @@ p{
 }
 .bottom-container{
 margin-bottom: 0;
-padding-bottom: 20px;
+padding-bottom: 10px;
 padding-top: 20px;
 }
