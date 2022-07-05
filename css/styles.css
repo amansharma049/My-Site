@@ -50,7 +50,9 @@ h3 {
 }
 .bottom-container {
   background-color: #66BFBF;
-
+}
+a:hover{
+  color: #EAF6F6;
 }
 
 .top-cloud {
